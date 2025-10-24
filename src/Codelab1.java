@@ -5,7 +5,6 @@ public class Codelab1 {
         String[] nama = {"Adi", "Budi", "Cahyo", "Diana", "Eva"};
         ArrayList<String> namaTerpanjang = cariNamaTerpanjang(nama);
         System.out.println("Nama terpanjang adalah: " + namaTerpanjang);
-        System.out.println("Nama Sangar");
     }
 
     public static ArrayList<String> cariNamaTerpanjang(String[] array) {
